@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohigord/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higordemuro/)
 
-<img src="https://raw.githubusercontent.com/higordemuro/higordemuro/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/higordemuro)
 
 
 <div align="center">  
