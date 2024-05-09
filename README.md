@@ -22,11 +22,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higordemuro/)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=higordemuro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordemuro&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=higordemuro&show_icons=true&count_private=true&hide_border=true&title_color=204fbe&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor Demuro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordemuro&layout=compact&hide_border=true&title_color=204fbe&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Higor Demuro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=higordemuro&bg_color=040911&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Higor Demuro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=higordemuro&bg_color=040911&color=204fbe&line=204fbe&point=2784eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117&textColor=0D1117)&nbsp;
