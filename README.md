@@ -1,22 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=153c89&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=153c89&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Higor+Demuro!+;Tenho+19+anos+e+sou+de+Goiás.;E+estou+cursando;Análise+e+Desenvolvimento+de+Sistemas:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=153c89&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Higor+Demuro!+;Tenho+19+anos+e+sou+de+Goiás.;E+estou+cursando;Análise+e+Desenvolvimento+de+Sistemas!:%29)](https://git.io/typing-svg)
 
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim:</h2>
 
 <p>
   
-  - 📚 I’m currently studying Software Engineering
+  - 📚 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 
-  - 👨🏻‍💻 I am looking for my first job opportunity.
+  - 👨🏻‍💻 Estou procurando minha primeira oportunidade de emprego na área.
 
-  - 📩 Contact: higordemuro.dev@gmail.com
+  - 📩 Contato: higordemuro.dev@gmail.com
 </p>
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim:</summary>
 
-  - 🗣️ I like playing video games, football, watching movies and my favorite series is Breaking Bad! I believe that engaging with topics that interest us makes us more insightful and capable of solving problems.
+  - 🗣️ Gosto de jogar videogame, futebol, assistir filmes e minha série favorita é Breaking Bad! Acredito que nos envolver com tópicos que nos interessam nos torna mais atentos e capazes de resolver problemas.
 </details>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ohigord/)
@@ -29,12 +29,12 @@
 
 [![Higor Demuro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=higordemuro&bg_color=040911&color=204fbe&line=204fbe&point=2784eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Studying in this moment:
+### Estudando neste momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117)&nbsp;
  
-### Tools:
+### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
