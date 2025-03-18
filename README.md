@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=153c89&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=153C89&width=435&lines=Oi%2C+meu+nome+%C3%A9+Higor+Demuro!;Tenho+20+anos+e+sou+de+Goi%C3%A1s.;E+estou+cursando;An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=153c89&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Higor+Demuro!+;Tenho+20+anos+e+sou+de+Goiás.;E+estou+cursando;Análise+e+Desenvolvimento+de+Sistemas!:%29)](https://git.io/typing-svg)
 
 
 <h2 align="left">Sobre mim:</h2>
